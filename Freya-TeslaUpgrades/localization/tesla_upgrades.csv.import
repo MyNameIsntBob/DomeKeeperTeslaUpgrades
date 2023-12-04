@@ -1,0 +1,16 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+
+[deps]
+
+files=[ "res://mods-unpacked/Freya-TeslaUpgrades/localization/tesla_upgrades.en.translation" ]
+
+source_file="res://mods-unpacked/Freya-TeslaUpgrades/localization/tesla_upgrades.csv"
+dest_files=[ "res://mods-unpacked/Freya-TeslaUpgrades/localization/tesla_upgrades.en.translation" ]
+
+[params]
+
+compress=true
+delimiter=0

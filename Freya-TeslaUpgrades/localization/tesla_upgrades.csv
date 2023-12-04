@@ -1,0 +1,6 @@
+keys,en
+upgrades.teslaquickcharge1.title,Quick Charage 1
+upgrades.teslaquickcharge1.desc,Improve the charge speed of the tesla's shot.
+upgrades.teslaquickcharge2.title,Quick Charge 2
+upgrades.teslaquickcharge2.desc,Improve the charge speed of the tesla's shot.
+properties.tesla.chargepersecond,Tesla Shot Charge Speed {.percent}
