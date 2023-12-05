@@ -1,7 +1,7 @@
 {
 	"name": "TeslaUpgrades",
 	"namespace": "Freya",
-	"version_number": "1.0.1",
+	"version_number": "1.0.2",
 	"description": "Adds new upgrade paths to the tesla dome",
 	"website_url": "https://",
 	"dependencies": [],
