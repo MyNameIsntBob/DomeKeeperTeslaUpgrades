@@ -2,11 +2,10 @@ teslaquickcharge1:
   cost: iron=8
   propertyChanges:
     - tesla.chargepersecond = 0.65
-  predecessors: [teslaPower1]
+  predecessors: [teslaPower2]
   locks: [teslatiming1]
 teslaquickcharge2:
   cost: iron=12
   propertyChanges:
     - tesla.chargepersecond = 0.80
   predecessors: [teslaQuickCharge1]
- 
