@@ -1,7 +1,7 @@
 {
 	"name": "TeslaUpgrades",
 	"namespace": "Freya",
-	"version_number": "1.0.0",
+	"version_number": "1.0.1",
 	"description": "Adds new upgrade paths to the tesla dome",
 	"website_url": "https://",
 	"dependencies": [],
@@ -10,7 +10,7 @@
 			"incompatibilities": [],
 			"authors": ["Freya"],
 			"compatible_mod_loader_version": ["3.0.0"],
-			"compatible_game_version": ["2.6"],
+			"compatible_game_version": ["3.1"],
 			"config_defaults": {}
 		}
 	}
